@@ -1,6 +1,8 @@
 If you want to use Portable Parsec to just connect a second to your computer, but you don't want to store all the login info into the client computer,
 you can use this code, it downloads and runs parsec and after you close it, it removes everything about parsec.
 
+You don't have any requirements for this <3
+
 Using of this code:
 
 You run it and after that it will start downloading the portable version of parsec
