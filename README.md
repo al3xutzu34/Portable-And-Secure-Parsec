@@ -3,7 +3,7 @@ you can use this code, it downloads and runs parsec and after you close it, it r
 
 You don't have any requirements for this <3
 
-Using of this code:
+Usage of this code:
 
 You run it and after that it will start downloading the portable version of parsec
 After that a new Folder is created in %temp% to run parsec portable (after you login and close the parsec by himself it stores all the info into that folder and
